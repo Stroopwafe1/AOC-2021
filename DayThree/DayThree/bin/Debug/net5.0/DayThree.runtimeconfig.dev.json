@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/lilith/.dotnet/store/|arch|/|tfm|",
-      "/home/lilith/.nuget/packages"
-    ]
-  }
-}
