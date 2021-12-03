@@ -1,0 +1,17 @@
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree.deps.json
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree.runtimeconfig.json
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree.runtimeconfig.dev.json
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree.dll
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/ref/DayThree.dll
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/DayThree.pdb
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.csproj.AssemblyReference.cache
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.AssemblyInfoInputs.cache
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.AssemblyInfo.cs
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.csproj.CoreCompileInputs.cache
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.dll
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/ref/DayThree.dll
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.pdb
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/obj/Debug/net5.0/DayThree.genruntimeconfig.cache
+/home/lilith/Documents/Code/AOC/DayThree/DayThree/bin/Debug/net5.0/Input.txt
