@@ -60,6 +60,7 @@ namespace DayFive {
 			return (Math.Abs(row1 - col1) == Math.Abs(row2 - col2) || row1 + col1 == row2 + col2) && !(row1 == row2 && col1 == col2);
 		}
 
+		// This method is the only mvp, ignore the rest.
 		private static bool IsInLine(int x1, int x, int x2, int y1, int y, int y2) {
 			int a = y2 - y1;
 			int b = x1 - x2;
