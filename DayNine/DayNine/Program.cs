@@ -13,6 +13,7 @@ namespace DayNine {
 					heightmap[y, x] = new HeightMapItem() { Height = byte.Parse(input[y][x].ToString()) };
 				}
 			}
+			#region PartOne
 			/*
 			int riskLevel = 0;
 			
@@ -40,7 +41,8 @@ namespace DayNine {
 			}
 			Console.WriteLine($"Output part one: {riskLevel}");
 			*/
-
+			#endregion
+			#region PartTwo
 			List<int> BasinSizes = new List<int>();
 			int partTwoOutput = 0;
 			for (int y = 0; y < heightmap.GetLength(0); y++) {
@@ -55,6 +57,7 @@ namespace DayNine {
 			var highestThree = BasinSizes.OrderByDescending(i => i).Take(3).ToList();
 			partTwoOutput = highestThree[0] * highestThree[1] * highestThree[2];
 			Console.WriteLine($"Part two output: {partTwoOutput}");
+			#endregion
 		}
 
 		public static int GetBasinCount(HeightMapItem[,] arr, int x, int y) {
